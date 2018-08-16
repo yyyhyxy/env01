@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: 1803hello
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: CGB
+Specification-Vendor: Pivotal Software, Inc.
+Specification-Title: 1803hello
+Implementation-Vendor-Id: cn.tedu
+Build-Jdk: 1.8.0_161
+Specification-Version: 0.0.1-SNAPSHOT
+Implementation-URL: http://projects.spring.io/spring-boot/1803hello/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
